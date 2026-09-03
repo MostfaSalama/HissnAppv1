@@ -1,0 +1,16 @@
+{
+  "appId": "com.hissn.azkar",
+  "appName": "حِصن",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "launchShowDuration": 2000,
+      "androidScaleType": "CENTER_INSIDE",
+      "splashFullScreen": true,
+      "splashImmersive": true,
+      "showSpinner": false,
+      "backgroundColor": "#141A33"
+    }
+  }
+}
